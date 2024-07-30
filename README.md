@@ -2,7 +2,6 @@
 **[2024년도 환경데이터 활용 및 분석 공모전]에 해당 주제로 참여하였습니다.** </br>
 </br>
 
-# Model
 ## 💻 Technology
 ***
 ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) &nbsp;<br>
