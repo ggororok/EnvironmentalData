@@ -2,7 +2,7 @@
 **[2024년도 환경데이터 활용 및 분석 공모전]에 해당 주제로 참여하였습니다.** </br>
 </br>
 
-## 💻 Technology
+### 💻 Technology
 ***
 ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) &nbsp;<br>
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) &nbsp; ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp; ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)&nbsp; <br>
@@ -11,15 +11,15 @@
 <br>
 
 
-## 📅 개발 기간
+### 📅 개발 기간
 ***
  - 2024-05-15 ~ 2024-06-03
 <br>
 
-## 📌 구현 과정
+### 📌 구현 과정
 ***
 
-### 1️⃣ 사용자 입력과 데이터셋을 이용하 가장 어울리는 꽃을 제공해주는 추천 시스템 구현 (3개의 꽃 추천)
+**1️⃣ 사용자 입력과 데이터셋을 이용하 가장 어울리는 꽃을 제공해주는 추천 시스템 구현 (3개의 꽃 추천)** <br>
 - 데이터 구축: 최종 837개의 데이터 사용 </br>
 </tab> - "농촌진흥청 국립원예특작과학원 오늘의 꽃"(open API), "순천만국가정원 탄생화"(pdf), “어니스트 플라워”의 꽃도감(웹크롤링/Selenium) 데이터 사용 </br>
 </tab> - 꽃 이름, 월, 일자, 계절, 꽃말, 설명(기념일 등 따로 추가) , 이미지(링크), 색상, (선택한 색상, 중앙 색상들)  칼럼 사용 </br>
