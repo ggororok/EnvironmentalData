@@ -51,6 +51,7 @@
 ### 4️⃣ 서버 업로드 
 - FastAPI를 이용하여 API 키 생성 </br>
 - AWS의 EC2를 통해서 배포 (nginx, ubunta 활용)
+</br>
 
 ### 💻 Technology
 ***
